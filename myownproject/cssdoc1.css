@@ -1,0 +1,19 @@
+	p {
+			color: green;
+	}
+	article {
+			color:orange;
+			text-align: center; 
+			font-style: italic;
+		}
+	body {
+			background-image:url('BG.jpg');
+			background-repeat: no-repeat;
+			background-size: cover;
+			font-family: Arial;
+		}
+a:hover, a:active
+        {
+             background-color: orange;
+	    }
+
