@@ -2,7 +2,7 @@
 			color: green;
 	}
 	article {
-			color:orange;
+			color:purple;
 			text-align: center; 
 			font-style: italic;
 		}
@@ -19,4 +19,5 @@ a:hover, a:active
 header
 {
 	text-align: center;
+	text-decoration: underline;
 }
