@@ -16,4 +16,7 @@ a:hover, a:active
         {
              background-color: orange;
 	    }
-
+header
+{
+	text-align: center;
+}
